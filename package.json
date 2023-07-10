@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michael-oloruntobi/sampleBankAPI/issues"
   },
-  "homepage": "https://github.com/michael-oloruntobi/sampleBankAPI#readme"
+  "homepage": "https://github.com/michael-oloruntobi/sampleBankAPI#readme",
+  "devDependencies": {
+    "cypress": "^12.17.0"
+  }
 }
