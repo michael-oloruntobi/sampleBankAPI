@@ -1,0 +1,6 @@
+{
+  "create_user": "/client/create",
+  "deposit": "/client/deposit",
+  "getbalance": "/client/getBalance",
+  "withdraw": "/client/withdraw"
+}

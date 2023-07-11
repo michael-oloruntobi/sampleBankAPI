@@ -1,0 +1,28 @@
+{
+  "username": "steve.austin",
+  "username1": "steve.austin1",
+  "email": "steve.austin@exbank.com",
+  "password": "p@ssw0rd",
+  "first_name": "Steve",
+  "last_name": "Austin",
+  "age": 30,
+  "pin": 1221,
+  "address": {
+    "street": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "zipcode": "12345"
+  },
+  "phone_number": "+1-555-1234567",
+  "header": {
+    "x-mock-match-request-body": "true",
+    "Content-Type": "application/json"
+  },
+  "user_id": "1234567890",
+  "wallet_id": "737377373737",
+  "status": "active",
+  "status1": "success",
+  "status2": "error",
+  "currency": "USD"
+}
